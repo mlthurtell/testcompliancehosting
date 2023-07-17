@@ -2,10 +2,9 @@
 #
 
 # Site settings
-title: Portal Technology Compliance Test Site
+title: Protected Utility
 description: > # this means to ignore newlines until "baseurl:"
   
-url: https://mlthurtell.github.io
 baseurl: "/testcompliancehosting" # the subpath of your site, e.g. /blog
 
 markdown: kramdown
