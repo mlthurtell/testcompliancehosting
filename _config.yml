@@ -5,7 +5,8 @@
 title: Portal Technology Compliance Test Site
 description: > # this means to ignore newlines until "baseurl:"
   
-baseurl: /testcompliancehosting # the subpath of your site, e.g. /blog
+url: https://mlthurtell.github.io/testcompliancehosting
+baseurl: "/testcompliancehosting" # the subpath of your site, e.g. /blog
 
 markdown: kramdown
 
